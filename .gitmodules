@@ -1,0 +1,12 @@
+[submodule "external-libs/FreeRTOS_Library"]
+	path = external-libs/FreeRTOS_Library
+	url = https://github.com/feilipu/Arduino_FreeRTOS_Library.git
+[submodule "external-libs/SD"]
+	path = external-libs/SD
+	url = https://github.com/arduino-libraries/SD.git
+[submodule "external-libs/LowPower"]
+	path = external-libs/LowPower
+	url = https://github.com/rocketscream/Low-Power.git
+[submodule "external-libs/TrueRandom"]
+	path = external-libs/TrueRandom
+	url = https://github.com/sirleech/TrueRandom.git
